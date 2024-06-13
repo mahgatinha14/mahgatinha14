@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil galerinha do youtube ❤️‍🔥
 
-<!--
-**mahgatinha14/mahgatinha14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Fernada!!!!!!
 
-Here are some ideas to get you started:
+MINHAS PRNICIPAIS ATIVIDADES NA PLATAFORMA ESTÃO RELACIONADAS À 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AULAS DA PLATAFORMA ALURA 📑
+- PROGRAMAÇÃO JAVASCRIPT 🖥️
+
+  Para entrar em contato comigo, acesse:
+
+  📷 @__mahmartins
+
+  ![](https://th.bing.com/th/id/OIP.VS775owo0rNtau6-ThF6_wHaHa?rs=1&pid=ImgDetMain)
+
+  ![](https://th.bing.com/th/id/OIP.X4tqrD-RNH02RLzhRK-WuQHaJQ?rs=1&pid=ImgDetMain)
